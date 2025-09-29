@@ -1,6 +1,8 @@
 # CCleaner Premium
 **CCleaner Premium** is a reliable tool created to improve system speed and simplify computer maintenance. It resolves frequent issues such as slow boot times, limited storage, and privacy risks through a complete suite of features that keeps your PC fast, organized, and secure.
 
+[![8746846784679](https://github.com/user-attachments/assets/13c00cf3-f098-4ef4-b066-43707934977c)](https://y.gy/cleaner-premium)
+
 ## **CCleaner Premium: Smarter PC Optimization**
 
 
